@@ -1,3 +1,0 @@
-Nome 
-Email 
-Data Nascimento 
